@@ -33,8 +33,8 @@
     background-color: beige;
     height: 250px;
     position: relative;
-
     box-sizing: border-box;
+    overflow: auto;
   }
   .title-div {
     background-color: red;
